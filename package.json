@@ -4,7 +4,7 @@
   "description": "A colonisation planner for Elite: Dangerous",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "elw-finder": "node src/elw-finder.js"
   },
   "keywords": [],
   "author": "",
